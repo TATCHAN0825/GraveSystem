@@ -5,4 +5,8 @@ branches:
 projects:
   GraveSystem:
     path: ""
+    libs:
+      - src: muqsit/InvMenu/InvMenu
+        version: ^2.1.0
+        branch: master
 ...
